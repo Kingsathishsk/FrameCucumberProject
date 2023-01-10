@@ -11,7 +11,11 @@ public class GitPush {
 	
 		System.out.println("Sathish");
 		
-System.out.println("Code A added");
+		System.out.println("Code A added");
 	
-	}
+		System.out.println("Code B added");
+		
+
+}
+
 }
